@@ -1,0 +1,5 @@
+/js/bundle.js
+/js/bundle.min.js
+node_modules
+.DS_Store
+.idea
